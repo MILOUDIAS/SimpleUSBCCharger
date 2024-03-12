@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB4515-GF-A_REVA")(type "KiCad")(uri "/home/syntax/Base/Kicad_Projects/GettingStarted/basics/USB-C_charger/External/USB4515-GF-A_REVA")(options "")(descr ""))
+)

@@ -1,0 +1,17 @@
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D4.0mm.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl
+[('D1', '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D4.0mm.wrl'), ('R1', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl'), ('R2', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl'), ('J2', '${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl'), ('R3', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl'), ('C1', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl'), ('C3', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl'), ('C2', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl')]

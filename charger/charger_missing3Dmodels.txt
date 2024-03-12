@@ -1,0 +1,17 @@
+### Missing 3D models - created on 2024-03-04 17:50
+### Printed by checking_3D_models plugin
+Board file: /home/syntax/Base/Kicad_Projects/GettingStarted/basics/USB-C_charger/charger/charger.kicad_pcb
+3D missing models written to:
+/home/syntax/Base/Kicad_Projects/GettingStarted/basics/USB-C_charger/charger/charger_missing3Dmodels.txt
+-------
+('D1', '${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D4.0mm.wrl')
+('R1', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl')
+('R2', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl')
+('J2', '${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal.wrl')
+('R3', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl')
+('C1', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl')
+('C3', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl')
+('C2', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl')
+-------
+NUM of 3D missing models:8
+checked extensions ['.stp', '.step', '.stpZ']
