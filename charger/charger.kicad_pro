@@ -540,7 +540,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../StepProjectes/SimplePowerSupply/charger.step",
       "svg": "",
       "vrml": ""
     },
